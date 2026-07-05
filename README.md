@@ -23,6 +23,7 @@ services: comunicação com API
 routes: configuração de rotas
 hooks: lógica reutilizável
 utils: funções auxiliares
+
 🎯 Objetivo
 
 Servir como base para construção rápida de interfaces modernas, mantendo padrão de código, escalabilidade e reutilização entre projetos.
